@@ -10,7 +10,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
-// Developed by Prashant
+// Developed by Prashant @iammprashant
 public class MainActivity extends AppCompatActivity {
     private ProgressBar mProgressBar;
     private WebView mWebView;
